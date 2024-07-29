@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora">
-      <change afterPath="$PROJECT_DIR$/Projeto 002/Lista_de_Compras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OláMundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introdução/OláMundo.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,28 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Exemplos_tipo_de_dados.executor": "Run",
-    "Python.Lista_de_Compras.executor": "Run",
-    "Python.OláMundo.executor": "Run",
-    "Python.Operadores.executor": "Run",
-    "Python.Operadores_condicionais.executor": "Run",
-    "Python.desafio_calculadora.executor": "Run",
-    "Python.exemplo_funcoes.executor": "Run",
-    "Python.lacos_de_repeticao.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Exemplos_tipo_de_dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista_de_Compras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OláMundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operadores_condicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo_funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lacos_de_repeticao.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\conta\PycharmProjects\pythonProject\Introdução" />
@@ -200,7 +196,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$OláMundo.coverage" NAME="OláMundo Coverage Results" MODIFIED="1721755420107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$exemplo_funcoes.coverage" NAME="exemplo_funcoes Coverage Results" MODIFIED="1721880748157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Funções" />
     <SUITE FILE_PATH="coverage/pythonProject$desafio_calculadora.coverage" NAME="desafio_calculadora Coverage Results" MODIFIED="1722270966857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 001" />
-    <SUITE FILE_PATH="coverage/pythonProject$Lista_de_Compras.coverage" NAME="Lista_de_Compras Coverage Results" MODIFIED="1722283656976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 002" />
+    <SUITE FILE_PATH="coverage/pythonProject$Lista_de_Compras.coverage" NAME="Lista_de_Compras Coverage Results" MODIFIED="1722285999542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 002" />
     <SUITE FILE_PATH="coverage/pythonProject$Exemplos_tipo_de_dados.coverage" NAME="Exemplos_tipo_de_dados Coverage Results" MODIFIED="1721853097069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$lacos_de_repeticao.coverage" NAME="lacos_de_repeticao Coverage Results" MODIFIED="1721879505932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
     <SUITE FILE_PATH="coverage/pythonProject$Operadores.coverage" NAME="Operadores Coverage Results" MODIFIED="1721859510246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
