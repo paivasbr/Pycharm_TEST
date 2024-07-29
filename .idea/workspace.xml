@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CódigoLimpo/comentarios_inteligentes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CódigoLimpo/evite_codigo_duplicado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CódigoLimpo/evite_magia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CódigoLimpo/responsabilidade_unica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funções/exemplo_funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OláMundo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/Operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/Operadores_condicionais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/lacos_de_repeticao.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/paivasbr/Pycharm_TEST.git",
+    "accountId": "618a5635-62af-4f08-92ea-45d15d1a04e5"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OláMundo.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jedQNXiEj5s8UA1jCBV2l6bVUA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Exemplos_tipo_de_dados.executor": "Run",
+    "Python.OláMundo.executor": "Run",
+    "Python.Operadores.executor": "Run",
+    "Python.Operadores_condicionais.executor": "Run",
+    "Python.desafio_calculadora.executor": "Run",
+    "Python.exemplo_funcoes.executor": "Run",
+    "Python.lacos_de_repeticao.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\conta\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\conta\PycharmProjects\pythonProject\VariaveisECondicionaisLacos" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="" />
+      <created>1721751460652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721751460652</updated>
+      <workItem from="1721751469033" duration="2721000" />
+      <workItem from="1721852234274" duration="17826000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722270755526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722270755526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722276173222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722276173222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722276224661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722276224661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Implementação da Calculadora" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação da Calculadora" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OperadoresCondicionaisLacos/lacos_de_repeticao.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$Operadores_condicionais.coverage" NAME="Operadores_condicionais Coverage Results" MODIFIED="1721859753796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
+    <SUITE FILE_PATH="coverage/pythonProject$OláMundo.coverage" NAME="OláMundo Coverage Results" MODIFIED="1721755420107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$exemplo_funcoes.coverage" NAME="exemplo_funcoes Coverage Results" MODIFIED="1721880748157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Funções" />
+    <SUITE FILE_PATH="coverage/pythonProject$desafio_calculadora.coverage" NAME="desafio_calculadora Coverage Results" MODIFIED="1722270966857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 001" />
+    <SUITE FILE_PATH="coverage/pythonProject$Exemplos_tipo_de_dados.coverage" NAME="Exemplos_tipo_de_dados Coverage Results" MODIFIED="1721853097069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$lacos_de_repeticao.coverage" NAME="lacos_de_repeticao Coverage Results" MODIFIED="1721879505932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
+    <SUITE FILE_PATH="coverage/pythonProject$Operadores.coverage" NAME="Operadores Coverage Results" MODIFIED="1721859510246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
+  </component>
+</project>
