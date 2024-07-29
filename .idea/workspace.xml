@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CódigoLimpo/comentarios_inteligentes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CódigoLimpo/evite_codigo_duplicado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CódigoLimpo/evite_magia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CódigoLimpo/responsabilidade_unica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo_funcoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OláMundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/Operadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/Operadores_condicionais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresCondicionaisLacos/lacos_de_repeticao.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "paivasbr"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/paivasbr/Pycharm_TEST.git",
@@ -100,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721751460652</updated>
       <workItem from="1721751469033" duration="2721000" />
-      <workItem from="1721852234274" duration="17826000" />
+      <workItem from="1721852234274" duration="18140000" />
     </task>
     <task id="LOCAL-00001" summary="Implementação da Calculadora">
       <option name="closed" value="true" />
