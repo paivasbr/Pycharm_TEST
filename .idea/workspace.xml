@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora" />
+    <list default="true" id="5a2512c1-0da4-4560-8869-3201d949c263" name="Changes" comment="Implementação da Calculadora">
+      <change afterPath="$PROJECT_DIR$/Projeto 002/Lista_de_Compras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OláMundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introdução/OláMundo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "paivasbr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;paivasbr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/paivasbr/Pycharm_TEST.git",
-    "accountId": "618a5635-62af-4f08-92ea-45d15d1a04e5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/paivasbr/Pycharm_TEST.git&quot;,
+    &quot;accountId&quot;: &quot;618a5635-62af-4f08-92ea-45d15d1a04e5&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/OláMundo.py" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -50,6 +54,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Exemplos_tipo_de_dados.executor": "Run",
+    "Python.Lista_de_Compras.executor": "Run",
     "Python.OláMundo.executor": "Run",
     "Python.Operadores.executor": "Run",
     "Python.Operadores_condicionais.executor": "Run",
@@ -69,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\conta\PycharmProjects\pythonProject\Introdução" />
       <recent name="C:\Users\conta\PycharmProjects\pythonProject" />
       <recent name="C:\Users\conta\PycharmProjects\pythonProject\VariaveisECondicionaisLacos" />
     </key>
@@ -90,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721751460652</updated>
       <workItem from="1721751469033" duration="2721000" />
-      <workItem from="1721852234274" duration="18140000" />
+      <workItem from="1721852234274" duration="26607000" />
     </task>
     <task id="LOCAL-00001" summary="Implementação da Calculadora">
       <option name="closed" value="true" />
@@ -116,7 +122,47 @@
       <option name="project" value="LOCAL" />
       <updated>1722276224661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722277174816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277174816</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722277668575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277668575</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722278435129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722278435129</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722279183060</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722279183060</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implementação da Calculadora">
+      <option name="closed" value="true" />
+      <created>1722279278834</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722279278834</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +200,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$OláMundo.coverage" NAME="OláMundo Coverage Results" MODIFIED="1721755420107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$exemplo_funcoes.coverage" NAME="exemplo_funcoes Coverage Results" MODIFIED="1721880748157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Funções" />
     <SUITE FILE_PATH="coverage/pythonProject$desafio_calculadora.coverage" NAME="desafio_calculadora Coverage Results" MODIFIED="1722270966857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 001" />
+    <SUITE FILE_PATH="coverage/pythonProject$Lista_de_Compras.coverage" NAME="Lista_de_Compras Coverage Results" MODIFIED="1722283656976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto 002" />
     <SUITE FILE_PATH="coverage/pythonProject$Exemplos_tipo_de_dados.coverage" NAME="Exemplos_tipo_de_dados Coverage Results" MODIFIED="1721853097069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$lacos_de_repeticao.coverage" NAME="lacos_de_repeticao Coverage Results" MODIFIED="1721879505932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
     <SUITE FILE_PATH="coverage/pythonProject$Operadores.coverage" NAME="Operadores Coverage Results" MODIFIED="1721859510246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperadoresCondicionaisLacos" />
