@@ -2,8 +2,7 @@
 - Desafio: Calculadora simples.
 - Requisitos Técnicos: Laços de repetição, condicionais, entrada e saída de dados, operações matemáticas, coleções de dados.
 - Descrição Geral: Desenvolva um aplicativo de calculadora que funcione via linha de comando (terminal).
-O usuário deve ser capaz de escolher entre diferentes operações matemáticas, inserir
-números para realizar os cálculos, e navegar no menu do aplicativo.
+O usuário deve ser capaz de escolher entre diferentes operações matemáticas, inserir números para realizar os cálculos, e navegar no menu do aplicativo.
 
 Requisitos Funcionais:
 Menu principal:
@@ -31,7 +30,6 @@ Ex. "O resultado da operação soma é: 42"
 Quando a operação for finalizada, deverá voltar ao menu principal.
 Se o usuário pressionar s, o aplicativo deverá agradecer o usuário e sair.
 """
-
 
 def calculadora():
     while True:
@@ -71,7 +69,6 @@ def calculadora():
             else:
                 resultado = numero_1 / numero_2
                 print("O resultado da orperação divisão é: ", resultado)
-
 
 calculadora()
 
